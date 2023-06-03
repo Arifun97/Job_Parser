@@ -3,7 +3,7 @@ Indeed Job Finder
 
 Project Description:
 
-This project's function is to scrape indeed for jobs that match my given parameters.
+This project's function is to scrape indeed for jobs that match user's given parameters.
 
 ·It will scrape the job title, company name, date published, salary, address, and a brief description. 
 
